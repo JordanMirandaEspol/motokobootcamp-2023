@@ -7,7 +7,8 @@ import Array "mo:base/Array";
 import Buffer "mo:base/Buffer";
 
 
-
+ 
+ 
 actor {
     var sum : Int = 0;
     var prom:Int=0;
